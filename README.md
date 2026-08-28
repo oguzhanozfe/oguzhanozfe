@@ -24,6 +24,14 @@ and technical decision-making without exposing customer or company IP.
 
 ## Selected public work
 
+### [HR Crossroads](https://github.com/oguzhanozfe/hr-crossroads-unity)
+
+A live Unity/WebGL workplace-simulation prototype with five embodied scenarios,
+243 validated content paths, build automation, and explicit boundaries: it is
+an exploratory conversation starter, not a validated hiring assessment.
+
+`Unity` · `C#` · `WebGL` · `Product prototyping` · `Responsible design`
+
 ### [Enterprise Implementation Lab](https://github.com/oguzhanozfe/enterprise-implementation-lab)
 
 A synthetic requirements-to-rollout reference: acceptance behavior, automated
