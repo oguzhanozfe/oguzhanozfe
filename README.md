@@ -17,8 +17,8 @@ and technical decision-making without exposing customer or company IP.
   field/client coordination, training, and rollout support
 - **Technical product:** roadmap and backlog ownership, acceptance criteria,
   cross-functional delivery, analytics, and release validation
-- **Applied AI:** RAG with vector databases, LoRA-based visual generation, and
-  human-reviewed AI workflows
+- **Applied AI:** LoRA-based visual generation, AI-assisted production
+  workflows, and human-reviewed outputs
 - **Game technology:** Unity/C#, Unreal, Firebase/TypeScript, APIs, analytics,
   and live release workflows
 
@@ -50,8 +50,9 @@ boundaries.
 
 - Contributed to confidential banking-client projects at NCR across
   requirements, demos, UAT, training, field coordination, and rollout support.
-- Built a vehicle-information RAG-enabled agent with a vector database to
-  support Unreal Engine simulation work at ADASTEC.
+- Worked as a **Simulation Engineer at ADASTEC**, collaborating with
+  localization and perception teams and contributing to Unreal Engine
+  simulation workflows.
 - Co-founded Limina Games and shipped four standalone VR/immersive products
   reaching 200K+ cumulative installs across Meta Quest and PC/Steam.
 - Currently manage five direct reports at Woofy Games while remaining hands-on
