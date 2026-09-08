@@ -1,76 +1,47 @@
 # Oğuzhan Özdemir
 
-### Technical Product & Solutions — Implementation, Applied AI & Game Technology
+Game developer and technical product lead in Istanbul.
 
-I turn stakeholder and user needs into working software, validated releases,
-and practical delivery workflows. My experience spans confidential banking
-implementations, autonomous-vehicle simulation, standalone VR and mobile games,
-and reproducible data tooling.
-
-Most commercial and client work is not open source. The repositories below are
-public, scoped examples of how I approach implementation, validation, analytics,
-and technical decision-making without exposing customer or company IP.
-
-## What I work on
-
-- **Solutions & implementation:** requirements discovery, demos, UAT,
-  field/client coordination, training, and rollout support
-- **Technical product:** roadmap and backlog ownership, acceptance criteria,
-  cross-functional delivery, analytics, and release validation
-- **Applied AI:** LoRA-based visual generation, AI-assisted production
-  workflows, and human-reviewed outputs
-- **Game technology:** Unity/C#, Unreal, Firebase/TypeScript, APIs, analytics,
-  and live release workflows
+I work across Unity gameplay, backend services, player analytics and release
+decisions. At Woofy Games, I lead development and product delivery for Ball
+Match while managing five direct reports and staying close to the code. I
+previously co-founded Limina Games and built simulation software at ADASTEC.
 
 ## Selected public work
 
-### [HR Crossroads](https://github.com/oguzhanozfe/hr-crossroads-unity)
+| Project | What it shows |
+|---|---|
+| [Blast Puzzle Systems](https://github.com/oguzhanozfe/unity-blast-puzzle-demo) | A playable Unity puzzle core with deterministic refill, power-ups, six EditMode tests and a clean reproducible build. |
+| [Progression Systems](https://github.com/oguzhanozfe/unity-progression-systems-demo) | Durable XP progression and queued navigation kept separate from Unity presentation code, with five EditMode tests. |
+| [Game Product Analytics Lab](https://github.com/oguzhanozfe/game-product-analytics-lab) | Synthetic event contracts, data-quality checks, funnel and retention SQL, build comparison and a bounded product decision note. |
+| [Turkish Finance Data](https://github.com/oguzhanozfe/turkish-finance-data) | Source-aware data imports, provenance checks and a self-contained research snapshot generated without runtime dependencies. |
+| [HR Crossroads](https://github.com/oguzhanozfe/hr-crossroads-unity) | A live Unity/WebGL workplace simulation with 243 validated content paths and clear limits on how its output may be used. |
+| [Steam Discovery](https://github.com/oguzhanozfe/steam-discovery) | A searchable research library for Steam visibility and game marketing, built around linked sources and structured metadata. |
+| [Enterprise Implementation Lab](https://github.com/oguzhanozfe/enterprise-implementation-lab) | A synthetic path from requirements through acceptance behavior, UAT, training, rollout and rollback decisions. |
 
-A live Unity/WebGL workplace-simulation prototype with five embodied scenarios,
-243 validated content paths, build automation, and explicit boundaries: it is
-an exploratory conversation starter, not a validated hiring assessment.
+## Shipped game work
 
-`Unity` · `C#` · `WebGL` · `Product prototyping` · `Responsible design`
+- At Woofy Games, I work on Ball Match across progression, difficulty, hints,
+  economy, Firebase services, analytics and release validation. The game is on
+  the [App Store](https://apps.apple.com/app/id6760407545) and
+  [Google Play](https://play.google.com/store/apps/details?id=com.woofygames.ballmatch).
+- At Limina Games, I worked across development, planning and marketing for four
+  standalone VR projects with more than 200K cumulative installs. My technical
+  work included an Amazon S3 video workflow for Viral Descent and the Next.js
+  product site for Please Step Aside.
+- At ADASTEC, I built C++ and Unreal Engine simulation workflows on Linux with
+  localization and perception teams.
 
-### [Enterprise Implementation Lab](https://github.com/oguzhanozfe/enterprise-implementation-lab)
+Studio and client repositories stay private when they contain company code,
+licensed assets or customer material. The public projects above are scoped so
+their code, data and claims can be reviewed on their own.
 
-A synthetic requirements-to-rollout reference: acceptance behavior, automated
-UAT, traceability, training notes, release gates, and rollback reasoning.
+## Tools I use
 
-`Python` · `Requirements` · `UAT` · `Implementation` · `CI`
+`Unity / C#` · `Unreal / C++` · `Python` · `TypeScript / Node.js` · `Firebase`
+· `Next.js / React` · `Amazon S3` · `BigQuery SQL` · `Git / CI`
 
-### [Game Product Analytics Lab](https://github.com/oguzhanozfe/game-product-analytics-lab)
+## Contact
 
-A deterministic synthetic event pipeline with data-quality, funnel, D1,
-build-comparison, and monetization SQL plus an evidence-bounded decision note.
-
-`Python` · `SQL` · `Product analytics` · `Data quality` · `CI`
-
-### [Turkish Finance Data](https://github.com/oguzhanozfe/turkish-finance-data)
-
-A local-first Python toolkit for reproducible TCMB EVDS workflows and validated
-fund-data imports, with provenance tracking and explicit source and licensing
-boundaries.
-
-`Python` · `APIs` · `Data validation` · `Reproducible research`
-
-## Professional scope
-
-- Contributed to confidential banking-client projects at NCR across
-  requirements, demos, UAT, training, field coordination, and rollout support.
-- Worked as a **Simulation Engineer at ADASTEC**, collaborating with
-  localization and perception teams and contributing to Unreal Engine
-  simulation workflows.
-- Co-founded Limina Games and shipped four standalone VR/immersive products
-  reaching 200K+ cumulative installs across Meta Quest and PC/Steam.
-- Currently manage five direct reports at Woofy Games while remaining hands-on
-  across Unity/C#, Firebase/TypeScript, APIs, analytics, and release validation.
-
-## Core tools
-
-`Unity / C#` · `Unreal` · `Python` · `TypeScript / Node.js` · `Firebase` ·
-`Next.js / React` · `Amazon S3` · `BigQuery SQL` · `Git / CI`
-
-## Connect
-
-Istanbul, Türkiye · [LinkedIn](https://www.linkedin.com/in/oguzhanozfe/)
+[Portfolio](https://oguzhanozfe.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/oguzhanozfe/) · Istanbul, Türkiye
