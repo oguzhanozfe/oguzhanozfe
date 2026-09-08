@@ -43,5 +43,5 @@ their code, data and claims can be reviewed on their own.
 
 ## Contact
 
-[Portfolio](https://oguzhanozfe.github.io/) ·
+[Portfolio](https://oguzhan-ozdemir.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/oguzhanozfe/) · Istanbul, Türkiye
