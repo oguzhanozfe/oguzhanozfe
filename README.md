@@ -9,10 +9,10 @@ Game developer and technical product lead in Istanbul.
 
 [Portfolio](https://oguzhan-ozdemir.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/oguzhanozfe/) · [Playable work](https://hr-crossroads-demo.vercel.app/)
 
-I work across Unity gameplay, backend services, player analytics and release
-decisions. At Woofy Games, I lead development and product delivery for Ball
-Match while managing five direct reports and staying close to the code. I
-previously co-founded Limina Games and built simulation software at ADASTEC.
+My work spans Unity gameplay, backend services, player analytics and release
+decisions. My experience includes leading development and product delivery for
+Ball Match, managing five direct reports, co-founding Limina Games and building
+simulation software at ADASTEC.
 
 ## Selected public work
 
@@ -28,7 +28,7 @@ previously co-founded Limina Games and built simulation software at ADASTEC.
 
 ## Shipped game work
 
-- At Woofy Games, I work on Ball Match across progression, difficulty, hints,
+- My work on Ball Match at Woofy Games covers progression, difficulty, hints,
   economy, Firebase services, analytics and release validation. The game is on
   the [App Store](https://apps.apple.com/app/id6760407545) and
   [Google Play](https://play.google.com/store/apps/details?id=com.woofygames.ballmatch).
