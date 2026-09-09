@@ -1,5 +1,8 @@
 <a href="https://oguzhan-ozdemir.vercel.app/">
-  <img src="./assets/profile-banner.svg" alt="Oğuzhan Özdemir — I make games." width="100%">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg">
+    <img src="./assets/profile-banner.svg" alt="Oğuzhan Özdemir — I make games." width="100%">
+  </picture>
 </a>
 
 Game developer and technical product lead in Istanbul.

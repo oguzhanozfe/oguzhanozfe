@@ -1,0 +1,40 @@
+<svg width="720" height="300" viewBox="0 0 720 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Oğuzhan Özdemir — I make games.</title>
+  <desc id="desc">Compact dark profile banner with a game-system path.</desc>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="18" x2="696" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.62" stop-color="#10192B"/>
+      <stop offset="1" stop-color="#07191C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="36" y1="0" x2="512" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B8FF65"/>
+      <stop offset="1" stop-color="#62E7E1"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#91A4C6" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="720" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="720" height="300" rx="24" fill="url(#grid)"/>
+  <path d="M0 235C144 184 252 278 398 226C520 182 596 103 720 116V300H0V235Z" fill="#62E7E1" fill-opacity="0.035"/>
+
+  <text x="36" y="124" fill="#F4F7FC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="750" letter-spacing="-2.2">I make games.</text>
+  <rect x="36" y="148" width="430" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="36" y="203" fill="#C0CCE0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="31" font-weight="560">Game developer · product lead</text>
+
+  <g opacity="0.62">
+    <path d="M520 64L575 32L630 64L575 96L520 64Z" fill="#192B45" stroke="#3E5F86"/>
+    <path d="M575 96L630 64L685 96L630 128L575 96Z" fill="#142D37" stroke="#43817F"/>
+    <path d="M520 128L575 96L630 128L575 160L520 128Z" fill="#20334E" stroke="#3E5F86"/>
+    <path d="M575 160L630 128L685 160L630 192L575 160Z" fill="#142D37" stroke="#43817F"/>
+    <path d="M575 96L630 128L630 192" stroke="#B8FF65" stroke-opacity="0.2" stroke-width="11" stroke-linecap="round"/>
+    <path d="M575 96L630 128L630 192" stroke="#B8FF65" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="575" cy="96" r="8" fill="#B8FF65"/>
+    <circle cx="630" cy="128" r="9" fill="#F4F7FC" stroke="#62E7E1" stroke-width="4"/>
+    <circle cx="630" cy="192" r="8" fill="#62E7E1"/>
+  </g>
+
+  <rect x="0.75" y="0.75" width="718.5" height="298.5" rx="23.25" stroke="#6A82A6" stroke-opacity="0.28" stroke-width="1.5"/>
+</svg>
