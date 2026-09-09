@@ -1,0 +1,67 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Oğuzhan Özdemir — I make games.</title>
+  <desc id="desc">Dark profile banner with game board tiles, system nodes and product signals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="64" y1="20" x2="1136" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#10192B"/>
+      <stop offset="1" stop-color="#071519"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="112" y1="115" x2="610" y2="255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B8FF65"/>
+      <stop offset="1" stop-color="#62E7E1"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#223252"/>
+      <stop offset="1" stop-color="#15243B"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#91A4C6" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <path d="M0 283C176 226 316 328 492 274C682 216 804 103 1200 143V360H0V283Z" fill="#62E7E1" fill-opacity="0.025"/>
+  <circle cx="1084" cy="48" r="180" fill="#62E7E1" fill-opacity="0.035"/>
+
+  <g transform="translate(72 64)">
+    <rect width="116" height="30" rx="15" fill="#B8FF65" fill-opacity="0.1" stroke="#B8FF65" stroke-opacity="0.35"/>
+    <circle cx="18" cy="15" r="4" fill="#B8FF65"/>
+    <text x="31" y="20" fill="#DDFEB7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">OĞUZHAN</text>
+  </g>
+
+  <text x="72" y="176" fill="#F4F7FC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="66" font-weight="750" letter-spacing="-2.5">I make games.</text>
+  <rect x="72" y="198" width="458" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="240" fill="#AAB8D0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="500">Gameplay systems · product analytics · shipping</text>
+  <text x="72" y="294" fill="#73EAE4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="1.5">UNITY / C#   ·   PRODUCT   ·   DATA</text>
+
+  <g transform="translate(736 54)">
+    <path d="M26 219L203 116L367 211L190 313L26 219Z" fill="#0A111F" stroke="#31486D"/>
+    <path d="M26 176L203 73L367 168L190 270L26 176Z" fill="#0D1728" stroke="#365175"/>
+
+    <g opacity="0.95">
+      <path d="M47 176L103 143L157 175L101 208L47 176Z" fill="url(#tile)" stroke="#355173"/>
+      <path d="M107 141L163 108L217 140L161 173L107 141Z" fill="#172B3D" stroke="#43817F"/>
+      <path d="M167 106L203 85L257 117L221 138L167 106Z" fill="#1A2E40" stroke="#43817F"/>
+      <path d="M163 177L219 144L273 176L217 209L163 177Z" fill="#20334E" stroke="#3D5B82"/>
+      <path d="M223 142L279 109L333 141L277 174L223 142Z" fill="url(#tile)" stroke="#355173"/>
+      <path d="M103 211L159 178L213 210L157 243L103 211Z" fill="#1A2E40" stroke="#43817F"/>
+      <path d="M163 246L219 213L273 245L217 278L163 246Z" fill="url(#tile)" stroke="#355173"/>
+      <path d="M223 211L279 178L333 210L277 243L223 211Z" fill="#172B3D" stroke="#43817F"/>
+    </g>
+
+    <path d="M161 141L217 176L277 142" stroke="#B8FF65" stroke-opacity="0.16" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M161 141L217 176L277 142" stroke="#B8FF65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="161" cy="141" r="7" fill="#B8FF65"/>
+    <circle cx="217" cy="176" r="8" fill="#F4F7FC" stroke="#62E7E1" stroke-width="3"/>
+    <circle cx="277" cy="142" r="7" fill="#62E7E1"/>
+
+    <path d="M203 73V36H300" stroke="#43617F" stroke-width="2" stroke-dasharray="5 7"/>
+    <circle cx="203" cy="73" r="5" fill="#62E7E1"/>
+    <rect x="299" y="22" width="68" height="29" rx="8" fill="#101F31" stroke="#3D5B82"/>
+    <text x="312" y="41" fill="#9CB0CC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700">SHIP ✓</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="27.25" stroke="#6A82A6" stroke-opacity="0.24" stroke-width="1.5"/>
+</svg>

@@ -1,6 +1,10 @@
-# Oğuzhan Özdemir
+<a href="https://oguzhan-ozdemir.vercel.app/">
+  <img src="./assets/profile-banner.svg" alt="Oğuzhan Özdemir — I make games." width="100%">
+</a>
 
 Game developer and technical product lead in Istanbul.
+
+[Portfolio](https://oguzhan-ozdemir.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/oguzhanozfe/) · [Playable work](https://hr-crossroads-demo.vercel.app/)
 
 I work across Unity gameplay, backend services, player analytics and release
 decisions. At Woofy Games, I lead development and product delivery for Ball
