@@ -1,3 +1,3 @@
-[Portfolio](https://oguzhan-ozdemir.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/oguzhanozfe/)
+Ball Match: [App Store](https://apps.apple.com/app/id6760407545) · [Google Play](https://play.google.com/store/apps/details?id=com.woofygames.ballmatch)
 
-Live: [HR Crossroads](https://hr-crossroads-demo.vercel.app/) · [Steam Discovery](https://steam-discovery.vercel.app/)
+[Portfolio](https://oguzhan-ozdemir.vercel.app/) · [Résumé](https://oguzhan-ozdemir.vercel.app/resume.html) · [LinkedIn](https://www.linkedin.com/in/oguzhanozfe/)
