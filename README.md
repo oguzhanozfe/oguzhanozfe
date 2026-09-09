@@ -19,11 +19,11 @@ previously co-founded Limina Games and built simulation software at ADASTEC.
 | Project | What it shows |
 |---|---|
 | [Blast Puzzle Systems](https://github.com/oguzhanozfe/unity-blast-puzzle-demo) | A playable Unity puzzle core with deterministic refill, power-ups, six EditMode tests and a clean reproducible build. |
+| [HR Crossroads](https://github.com/oguzhanozfe/hr-crossroads-unity) · [Play](https://hr-crossroads-demo.vercel.app/) | A live Unity/WebGL workplace simulation with 243 validated content paths and clear limits on how its output may be used. |
 | [Progression Systems](https://github.com/oguzhanozfe/unity-progression-systems-demo) | Durable XP progression and queued navigation kept separate from Unity presentation code, with five EditMode tests. |
 | [Game Product Analytics Lab](https://github.com/oguzhanozfe/game-product-analytics-lab) | Synthetic event contracts, data-quality checks, funnel and retention SQL, build comparison and a bounded product decision note. |
+| [Steam Discovery](https://github.com/oguzhanozfe/steam-discovery) · [Open](https://steam-discovery.vercel.app/) | A searchable research library for Steam visibility and game marketing, built around linked sources and structured metadata. |
 | [Turkish Finance Data](https://github.com/oguzhanozfe/turkish-finance-data) | Source-aware data imports, provenance checks and a self-contained research snapshot generated without runtime dependencies. |
-| [HR Crossroads](https://github.com/oguzhanozfe/hr-crossroads-unity) | A live Unity/WebGL workplace simulation with 243 validated content paths and clear limits on how its output may be used. |
-| [Steam Discovery](https://github.com/oguzhanozfe/steam-discovery) | A searchable research library for Steam visibility and game marketing, built around linked sources and structured metadata. |
 | [Enterprise Implementation Lab](https://github.com/oguzhanozfe/enterprise-implementation-lab) | A synthetic path from requirements through acceptance behavior, UAT, training, rollout and rollback decisions. |
 
 ## Shipped game work
