@@ -5,7 +5,7 @@ Ball Match: [App Store](https://apps.apple.com/app/id6760407545) · [Google Play
 ### AI work
 
 **Agents and evaluation**
-- [voice-support-agent](https://github.com/oguzhanozfe/voice-support-agent): support agent you can type or talk to; framework-free tool loop, human handoff, scored on held-out scenarios
+- [voice-support-agent](https://github.com/oguzhanozfe/voice-support-agent): support agent you can type or talk to; framework-free tool loop, human handoff, measured on independent scenarios
 - [customer-360-payments-lab](https://github.com/oguzhanozfe/customer-360-payments-lab): read-only SQL agent over a merged customer view, with answers checked against fixed SQL
 - [character-forge](https://github.com/oguzhanozfe/character-forge): agent-driven brief → game-ready 3D character pipeline with human approval gates
 
