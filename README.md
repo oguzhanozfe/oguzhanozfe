@@ -9,6 +9,7 @@ Ball Match: [App Store](https://apps.apple.com/app/id6760407545) · [Google Play
 **Evaluation and measurement**
 - [agent-evals](https://github.com/oguzhanozfe/agent-evals): tool-calling agent evals with k runs, pass^k, flaky detection and CI regression diffs
 - [cheapest-lane-bench](https://github.com/oguzhanozfe/cheapest-lane-bench): how cheap a model can be per chore before quality drops; local vs cloud cost/quality frontier
+- [tr-extract-bench](https://github.com/oguzhanozfe/tr-extract-bench): Turkish business-document extraction benchmark (invoices, statements, disclosures) across local and cloud models
 - [voice-latency-lab](https://github.com/oguzhanozfe/voice-latency-lab): where the time goes in a voice-agent turn (STT → LLM → TTS) and which streaming tricks help
 
 **Agents**
