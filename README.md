@@ -6,19 +6,36 @@ Ball Match: [App Store](https://apps.apple.com/app/id6760407545) · [Google Play
 
 ### AI work
 
-**Agents and evaluation**
+**Evaluation and measurement**
+- [agent-evals](https://github.com/oguzhanozfe/agent-evals): tool-calling agent evals with k runs, pass^k, flaky detection and CI regression diffs
+- [cheapest-lane-bench](https://github.com/oguzhanozfe/cheapest-lane-bench): how cheap a model can be per chore before quality drops; local vs cloud cost/quality frontier
+- [voice-latency-lab](https://github.com/oguzhanozfe/voice-latency-lab): where the time goes in a voice-agent turn (STT → LLM → TTS) and which streaming tricks help
+
+**Agents**
 - [voice-support-agent](https://github.com/oguzhanozfe/voice-support-agent): support agent you can type or talk to; framework-free tool loop, human handoff, measured on independent scenarios
-- [customer-360-payments-lab](https://github.com/oguzhanozfe/customer-360-payments-lab): read-only SQL agent over a merged customer view, with answers checked against fixed SQL
+- [customer-360-payments-lab](https://github.com/oguzhanozfe/customer-360-payments-lab): read-only SQL agent over a merged customer view, answers checked against fixed SQL
 - [character-forge](https://github.com/oguzhanozfe/character-forge): agent-driven brief → game-ready 3D character pipeline with human approval gates
 
-**LLM infrastructure and MCP**
-- [llm-offload](https://github.com/oguzhanozfe/llm-offload): routes bounded LLM chores to the cheapest lane (cloud, GPU box, laptop) with a credential guard and quota-aware fallback
+**Agent safety and infrastructure**
+- [mcp-firewall](https://github.com/oguzhanozfe/mcp-firewall): MCP proxy with tool policy, secret redaction and measured prompt-injection detection
+- [claude-code-guardrails](https://github.com/oguzhanozfe/claude-code-guardrails): Claude Code hooks that block credential writes and destructive commands, with a measured false-positive rate
+- [llm-offload](https://github.com/oguzhanozfe/llm-offload): routes bounded LLM chores to the cheapest lane with a credential guard and quota-aware fallback
 - [fm-career-mcp](https://github.com/oguzhanozfe/fm-career-mcp) · [evidence-rag](https://github.com/oguzhanozfe/evidence-rag): MCP servers; local search that preserves evidence and detects source changes
 - [local-workbench](https://github.com/oguzhanozfe/local-workbench): resumable Ollama document workflows with evidence checks
 
-**Applied**
+**Grounded LLM products for games**
+- [review-miner](https://github.com/oguzhanozfe/review-miner): Steam reviews → product themes before/after a patch, every quote verified
+- [community-pulse](https://github.com/oguzhanozfe/community-pulse): community topics and sentiment aligned with patch dates
+- [gdd-copilot](https://github.com/oguzhanozfe/gdd-copilot): game design docs where every market claim cites a quoted source
+- [ad-creative-lens](https://github.com/oguzhanozfe/ad-creative-lens): tags mobile game ad creatives and surfaces UA creative trends
+- [store-listing-watch](https://github.com/oguzhanozfe/store-listing-watch): tracks store listings and explains what competitors changed
+
+**Other applied**
+- [kap-watcher](https://github.com/oguzhanozfe/kap-watcher): classifies and summarises Turkish KAP disclosures; every number checked against the source
+- [deal-hunter](https://github.com/oguzhanozfe/deal-hunter): real deal vs fake discount from price history, plus a Turkish recommendation bot
+- [paper-radar](https://github.com/oguzhanozfe/paper-radar): weekly arXiv digest ranked against an interest profile, measured against baselines
 - [ai-visibility-lab](https://github.com/oguzhanozfe/ai-visibility-lab): do AI answer engines find and cite your pages?
-- [n8n-job-search-copilot](https://github.com/oguzhanozfe/n8n-job-search-copilot): n8n + local LLM inbox triage, daily brief and fit check
+- [n8n-job-search-copilot](https://github.com/oguzhanozfe/n8n-job-search-copilot): n8n + LLM inbox triage, daily brief and fit check
 - [visual-workbench](https://github.com/oguzhanozfe/visual-workbench): LoRA training and image-to-video experiments on licensed data
 
 Systems: [paxos-arena](https://github.com/oguzhanozfe/paxos-arena) (Multi-Paxos settlement log in Go)
