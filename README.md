@@ -21,6 +21,8 @@ Each example runs with `python app.py`, without an account or API key. The app c
 
 The [AI project catalog](AI-STUDIOS.md) contains 25 hands-on projects. Each includes a sample input, a result you can inspect, and files produced by an approved edit.
 
+Try [reflowing a subtitle cue](https://oguzhanozfe.github.io/caption-reflow-studio/) or [tracing a route through a tilemap](https://oguzhanozfe.github.io/tilemap-route-studio/) in your browser.
+
 - [Caption Reflow Studio](https://github.com/oguzhanozfe/caption-reflow-studio) takes a crowded subtitle cue and splits it into timed, readable captions. Open the included SRT in a subtitle editor.
 - [Quest Continuity Studio](https://github.com/oguzhanozfe/quest-continuity-studio) checks whether a game quest can be completed and exports the shortest sequence of actions that proves it.
 - [Inventory Transfer Desk](https://github.com/oguzhanozfe/inventory-transfer-desk) turns store shortages and shipping limits into transfer orders while preserving each donor's reserve.
