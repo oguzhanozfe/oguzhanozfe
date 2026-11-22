@@ -15,7 +15,43 @@ I build mobile games and tools for the people who make them. As a technical prod
 | [Funnel Friction Map](https://github.com/oguzhanozfe/funnel-friction-map)<br>[Live demo](https://oguzhanozfe.github.io/funnel-friction-map/) | Player or customer counts at each step | Find the largest onboarding loss of 133 of 317 people between creating a workspace and inviting a teammate. |
 | [Schema Change Lens](https://github.com/oguzhanozfe/schema-change-lens)<br>[Live demo](https://oguzhanozfe.github.io/schema-change-lens/) | Two versions of a data contract | Spot three changes that could reject previously valid inputs, alongside three compatible changes. |
 
-Each example runs with `python app.py`, without an account or API key. The app computes the result. A local chat model, Azure OpenAI, Amazon Bedrock or a compatible API can provide an optional second opinion. [Browse all 25 tools](https://github.com/search?q=user%3Aoguzhanozfe+topic%3Aai-demo-workbench&type=repositories)
+Open a live demo to edit the input, see the chart change and export the report. Each demo runs in your browser without an account or API key. For a generative review, run `python app.py` and connect a local chat model, Azure OpenAI, Amazon Bedrock or a compatible API. [Browse all 25 tools](https://github.com/search?q=user%3Aoguzhanozfe+topic%3Aai-demo-workbench&type=repositories)
+
+<details>
+<summary>Browse 19 more live demos</summary>
+
+**Media and editing**
+
+- [Hook Cut Lab](https://github.com/oguzhanozfe/hook-cut-lab) · [Live demo](https://oguzhanozfe.github.io/hook-cut-lab/)
+- [Subtitle Fit Check](https://github.com/oguzhanozfe/subtitle-fit-check) · [Live demo](https://oguzhanozfe.github.io/subtitle-fit-check/)
+- [Steam Trailer Lens](https://github.com/oguzhanozfe/steam-trailer-lens) · [Live demo](https://oguzhanozfe.github.io/steam-trailer-lens/)
+- [Sound Cue Sheet](https://github.com/oguzhanozfe/sound-cue-sheet) · [Live demo](https://oguzhanozfe.github.io/sound-cue-sheet/)
+- [Take Picker](https://github.com/oguzhanozfe/take-picker) · [Live demo](https://oguzhanozfe.github.io/take-picker/)
+
+**Developer tools**
+
+- [Docs Drift Map](https://github.com/oguzhanozfe/docs-drift-map) · [Live demo](https://oguzhanozfe.github.io/docs-drift-map/)
+- [CLI Example Audit](https://github.com/oguzhanozfe/cli-example-audit) · [Live demo](https://oguzhanozfe.github.io/cli-example-audit/)
+- [Release Note Weaver](https://github.com/oguzhanozfe/release-note-weaver) · [Live demo](https://oguzhanozfe.github.io/release-note-weaver/)
+- [Runbook Pathfinder](https://github.com/oguzhanozfe/runbook-pathfinder) · [Live demo](https://oguzhanozfe.github.io/runbook-pathfinder/)
+- [Locale Layout Lab](https://github.com/oguzhanozfe/locale-layout-lab) · [Live demo](https://oguzhanozfe.github.io/locale-layout-lab/)
+
+**Product operations**
+
+- [Flag Retirement Board](https://github.com/oguzhanozfe/flag-retirement-board) · [Live demo](https://oguzhanozfe.github.io/flag-retirement-board/)
+- [Event Contract Check](https://github.com/oguzhanozfe/event-contract-check) · [Live demo](https://oguzhanozfe.github.io/event-contract-check/)
+- [Queue Capacity Sketch](https://github.com/oguzhanozfe/queue-capacity-sketch) · [Live demo](https://oguzhanozfe.github.io/queue-capacity-sketch/)
+- [Stockout Window](https://github.com/oguzhanozfe/stockout-window) · [Live demo](https://oguzhanozfe.github.io/stockout-window/)
+- [Feedback Contradiction Map](https://github.com/oguzhanozfe/feedback-contradiction-map) · [Live demo](https://oguzhanozfe.github.io/feedback-contradiction-map/)
+
+**Game production**
+
+- [Playtest Compass](https://github.com/oguzhanozfe/playtest-compass) · [Live demo](https://oguzhanozfe.github.io/playtest-compass/)
+- [Game Economy Ledger](https://github.com/oguzhanozfe/game-economy-ledger) · [Live demo](https://oguzhanozfe.github.io/game-economy-ledger/)
+- [Build Size Diff](https://github.com/oguzhanozfe/build-size-diff) · [Live demo](https://oguzhanozfe.github.io/build-size-diff/)
+- [Palette Pair Proof](https://github.com/oguzhanozfe/palette-pair-proof) · [Live demo](https://oguzhanozfe.github.io/palette-pair-proof/)
+
+</details>
 
 ## From input to a working file
 
