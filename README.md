@@ -1,8 +1,24 @@
-Technical product owner and AI engineer: mobile games, player data, and LLM agents, evaluation and local-model tooling.
+# Oğuzhan Özdemir
 
-Ball Match: [App Store](https://apps.apple.com/app/id6760407545) · [Google Play](https://play.google.com/store/apps/details?id=com.woofygames.ballmatch)
+I build mobile games and tools for the people who make them. As a technical product owner and AI engineer, I work across gameplay, player analytics, and AI-assisted production. **Ball Match** is available on the [App Store](https://apps.apple.com/app/id6760407545) and [Google Play](https://play.google.com/store/apps/details?id=com.woofygames.ballmatch).
 
 [Portfolio](https://oguzhan-ozdemir.vercel.app/) · [Résumé](https://oguzhan-ozdemir.vercel.app/resume.html) · [LinkedIn](https://www.linkedin.com/in/oguzhanozfe/)
+
+## Six projects to try
+
+| Project | Give it | See what happens in the included example |
+| --- | --- | --- |
+| [Cutroom Coverage](https://github.com/oguzhanozfe/cutroom-coverage) | A shot list and tagged takes | Before the crew wraps, see which two of four product shots still need a pickup. |
+| [Sprite Atlas Audit](https://github.com/oguzhanozfe/sprite-atlas-audit) | A texture size and sprite rectangles | See where two frames overlap and where an effect extends beyond the sheet. |
+| [Jam Scope Solver](https://github.com/oguzhanozfe/jam-scope-solver) | Feature estimates, values, prerequisites and a time budget | Pick six features that fit a 22-hour game jam, including their dependencies. |
+| [Vertical Frame Planner](https://github.com/oguzhanozfe/vertical-frame-planner) | Landscape shot dimensions and subject boxes | Preview a vertical crop and find the one shot out of three that needs reframing. |
+| [Funnel Friction Map](https://github.com/oguzhanozfe/funnel-friction-map) | Player or customer counts at each step | Find the largest onboarding loss of 133 of 317 people between creating a workspace and inviting a teammate. |
+| [Schema Change Lens](https://github.com/oguzhanozfe/schema-change-lens) | Two versions of a data contract | Spot three changes that could reject previously valid inputs, alongside three compatible changes. |
+
+Each example runs with `python app.py`, without an account or API key. The app computes the result. A local chat model, Azure OpenAI, Amazon Bedrock or a compatible API can provide an optional second opinion. [Browse all 25 tools](https://github.com/search?q=user%3Aoguzhanozfe+topic%3Aai-demo-workbench&type=repositories)
+
+<details>
+<summary>More projects in AI, games and engineering</summary>
 
 ### AI work
 
@@ -40,3 +56,5 @@ Ball Match: [App Store](https://apps.apple.com/app/id6760407545) · [Google Play
 - [visual-workbench](https://github.com/oguzhanozfe/visual-workbench): LoRA training and image-to-video experiments on licensed data
 
 Systems: [paxos-arena](https://github.com/oguzhanozfe/paxos-arena) (Multi-Paxos settlement log in Go)
+
+</details>
