@@ -4,6 +4,12 @@ I build mobile games and tools for the people who make them. As a technical prod
 
 [Portfolio](https://oguzhan-ozdemir.vercel.app/) · [Résumé](https://oguzhan-ozdemir.vercel.app/resume.html) · [LinkedIn](https://www.linkedin.com/in/oguzhanozfe/)
 
+## Video production and gameplay review
+
+**Interview Proofcut** turns recorded interviews into a short video with a source timecode for every quote. Open the train-booking study, hear where two participants hesitate, and change the cut. You can also bring a recording and transcribe it on your device. [Editing desk](https://oguzhanozfe.github.io/interview-proofcut/) · [Watch the sample edit](https://oguzhanozfe.github.io/interview-proofcut/examples/review.mp4) · [Source and release plan](https://github.com/oguzhanozfe/interview-proofcut)
+
+**Replay Delta Lab** lines up two gameplay recordings with their event logs. In the Harbor Relay example, the second run reaches the bridge 3.05 seconds later. Inspect the recordings at that checkpoint, compare nearby frames, and export the two moments side by side. [Replay desk](https://oguzhanozfe.github.io/replay-delta-lab/) · [Watch the comparison](https://oguzhanozfe.github.io/replay-delta-lab/examples/review.mp4) · [Source and release plan](https://github.com/oguzhanozfe/replay-delta-lab)
+
 ## Six projects to try
 
 | Project | Give it | See what happens in the included example |
